@@ -182,5 +182,3 @@ int main(int argc, char* argv[])
     }
 	return 0;
 }
-//5*(x+10*(2*x-sin(cos(x)*log(x+5))))+(x-x)$
-//5*(x+10*(2*x-sin(cos(x)*log(x+5))))+(x-x)*((log(cos(log(x)+4*x))))$ перед log лишняя скобка 
