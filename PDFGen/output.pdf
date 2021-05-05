@@ -1,0 +1,101 @@
+%PDF-1.2
+%«Ïè¢
+1 0 obj
+<<
+  /Creator (My software)
+  /Producer (My software)
+  /Title (My document)
+  /Author (My name)
+  /Subject (My subject)
+  /CreationDate (D:Today)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [ 5 0 R ]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+  /Encoding /WinAnsiEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 595.275574 841.889771]
+/Resources <<
+  /Font <<
+    /F1 4 0 R
+  >>
+  /ExtGState <<
+  /GS0 <</ca 1.000000>>
+  /GS1 <</ca 0.933333>>
+  /GS2 <</ca 0.866667>>
+  /GS3 <</ca 0.800000>>
+  /GS4 <</ca 0.733333>>
+  /GS5 <</ca 0.666667>>
+  /GS6 <</ca 0.600000>>
+  /GS7 <</ca 0.533333>>
+  /GS8 <</ca 0.466667>>
+  /GS9 <</ca 0.400000>>
+  /GS10 <</ca 0.333333>>
+  /GS11 <</ca 0.266667>>
+  /GS12 <</ca 0.200000>>
+  /GS13 <</ca 0.133333>>
+  /GS14 <</ca 0.066667>>
+  /GS15 <</ca 0.000000>>
+  >>
+>>
+/Contents [
+6 0 R
+7 0 R
+]
+>>
+endobj
+6 0 obj
+<< /Length 123 >>stream
+BT /GS0 gs 50.000000 20.000000 TD /F1 12.000000 Tf 0.000000 0.000000 0.000000 rg 0.000000 Tc (Molozhavenko Alexander) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 105 >>stream
+3.000000 w
+50.000000 24.000000 m
+/DeviceRGB CS
+0.000000 0.000000 0.000000 RG
+150.000000 24.000000 l S
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000017 00000 n
+0000000192 00000 n
+0000000258 00000 n
+0000000313 00000 n
+0000000428 00000 n
+0000001031 00000 n
+0000001209 00000 n
+trailer
+<<
+/Size 8
+/Root 3 0 R
+/Info 1 0 R
+/ID [<609d749950de2651> <001aebdc9fb7bd4d>]
+>>
+startxref
+1369
+%%EOF
