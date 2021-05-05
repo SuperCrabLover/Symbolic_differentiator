@@ -10,6 +10,6 @@ Symbolic differentiator written for admission to the department of MIPT Acronis.
     make
 ## Usage
 After executing make the ELF named 'a' will be created. For getting usage information execute 
-----------
+    
     ./a -h
 The output will be printed into terminal and into the file simultaneously.
