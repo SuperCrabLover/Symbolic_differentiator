@@ -12,4 +12,4 @@ Symbolic differentiator written for admission to the department of MIPT Acronis.
 After executing make the ELF named 'a' will be created. For getting usage information execute 
     
     ./a -h
-The output will be printed into terminal and into the file simultaneously. The parser can understand integers (like "-1" or "10000"), the differentiation parametr is "x", the expression "-x" is also considered correct. Program parses tan, log, sin and cos functions as well as multiplication  " * ", division "\", power "^", plus "+", minus "-" and unary minus "-" which will be printed as "m".
+The output will be printed into terminal and into the file simultaneously. The parser can understand integers (like "-1" or "10000"), the differentiation parametr is "x", the expression "-x" is also considered correct. Program parses tan, log, sin and cos functions as well as multiplication  " * ", division "/", power "^", plus "+", minus "-" and unary minus "-", which will be printed as "m".
