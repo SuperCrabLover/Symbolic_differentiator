@@ -1,6 +1,6 @@
 # Symbolic_differentiator_ACRONIS
 ## Contents
-0. [Brief discription](#Symbolic differentiator written for admission to the department of MIPT Acronis.)
+0. [Brief discription](#Symbolic differentiator written for admission to the department of MIPT Acronis)
 1. [Installation](#Installation)
 2. [Usage](#Usage)
 ## Symbolic differentiator written for admission to the department of MIPT Acronis
@@ -9,5 +9,6 @@ Code is powered by the pdf generator written by https://github.com/AndreRenaud/P
     git clone
     make
 ## Usage
- 
-    
+After executing make the ELF named 'a' will be created. For getting usage information execute 
+    ./a -h
+The output will be printed into terminal and into the file simultaneously.
